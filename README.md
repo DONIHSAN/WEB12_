@@ -15,7 +15,7 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ## Start Apache dan MySQL server dari menu ``XAMPP Control``
 
-![](screenshot//XAMPP%20Control%20Panel.png)
+![](screenshot/XAMPP%20Control%20Panel%20fix.png)
 
 **1. Membuat tabel ``user`` pada database ***latihan1*****
 
