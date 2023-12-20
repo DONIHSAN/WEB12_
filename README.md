@@ -13,7 +13,7 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ![](screenshot/Home%20Screen%20VSC.png)
 
-## Start Apache dan MySQL server dari menu XAMPP Control
+## Start Apache dan MySQL server dari menu ``XAMPP Control``
 
 ![](screenshot/XAMPP%20Control%20Panel.png)
 
